@@ -570,7 +570,7 @@ form ::placeholder{
     height:90%;
     width: 40%;
     /* background-color: #42C279; */
-    background-image: url(public-school.webp);
+    background-image: url(/images/public-school.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size:auto;
@@ -705,6 +705,39 @@ form ::placeholder{
     /* background-color:pink; */
 }
 
+.upper-why-edunext{
+    height: 38vh;
+    width: 100%;
+    /* background-color: #42C279; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.upper-why-edunext h3{
+    font-size: 1.2vw;
+    font-weight:600;
+    color: #007BFF;
+    padding-top: 2vw;
+}
+
+.upper-why-edunext h2{
+    font-size: 2vw;
+    font-weight: 600;
+    color: #003078;
+    line-height: 2.6vw;
+    padding: .5vw 0;
+}
+
+.upper-why-edunext p{
+    font-size:.95vw;
+    color: #6c6b6b;
+    line-height: 1.6vw;
+
+}
+
 .mid-why-edunext{
     height: 20vh;
     width: 100%;
@@ -796,7 +829,7 @@ form ::placeholder{
     height:100%;
     width: 40%;
     /* background-color: rgb(201, 54, 110); */
-    background-image: url(why-view5.webp);
+    background-image: url(/images/why-view5.webp);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -813,10 +846,32 @@ form ::placeholder{
     align-items: center;
 }
 
+
+
 .upper-client{
     height:20vh;
     width: 100%;
-    /* background-color: lightyellow; */
+    /* background-color: #42C279; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.upper-client h3{
+    font-size: 1.2vw;
+    font-weight:600;
+    color: #007BFF;
+    padding-top: 2vw;
+}
+
+.upper-client h2{
+    font-size: 2vw;
+    font-weight: 600;
+    color: #003078;
+    line-height: 2.6vw;
+    padding: .5vw 0;
 }
 
 .lower-client{
@@ -897,7 +952,7 @@ form ::placeholder{
     height:60vh;
     width: 40%;
     /* background-color:lightcoral; */
-    background-image: url(ew-award.png);
+    background-image: url(/images/ew-award.png);
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -920,6 +975,24 @@ form ::placeholder{
     margin-top: 6vw;
 }
 
+.left-testimonials h4{
+    font-size:1.1vw;
+    color: #007BFF;
+}
+
+.left-testimonials h2{
+    font-size: 2vw;
+    font-weight: 600;
+    color: #003078;
+    line-height: 2.6vw;
+    margin: .5vw 0;
+}
+
+.left-testimonials p{
+    font-size: 1vw;
+    color: #848181;
+}
+
 .left-testimonials div {
     height: 40px;
     width: 40%;
@@ -928,6 +1001,7 @@ form ::placeholder{
     margin-left: 21vw;
 
 }
+
 
 .left-testimonials div i{
     font-size: 1.5vw;
@@ -1034,6 +1108,32 @@ form ::placeholder{
     height: 25vh;
     width: 100%;
     /* background-color: lightgreen; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.upper-contact-us h3{
+    font-size: 1.2vw;
+    font-weight:600;
+    color: #007BFF;
+    padding-top: 2vw;
+}
+
+.upper-contact-us h2{
+    font-size: 2vw;
+    font-weight: 600;
+    color: #003078;
+    line-height: 2.6vw;
+    padding: .5vw 0;
+}
+
+.upper-contact-us p{
+    font-size:.95vw;
+    color: #6c6b6b;
+    line-height: 1.6vw;
+
 }
 
 .mid-contact-us{
@@ -1102,7 +1202,7 @@ form ::placeholder{
     height:75vh;
     width: 50%;
     /* background-color: red; */
-    background-image: url(edunext-entry2.jpg);
+    background-image: url(images/edunext-entry2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

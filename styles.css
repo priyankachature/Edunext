@@ -570,7 +570,7 @@ form ::placeholder{
     height:90%;
     width: 40%;
     /* background-color: #42C279; */
-    background-image: url(/images/public-school.webp);
+    background-image: url(public-school.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size:auto;
@@ -829,7 +829,7 @@ form ::placeholder{
     height:100%;
     width: 40%;
     /* background-color: rgb(201, 54, 110); */
-    background-image: url(/images/why-view5.webp);
+    background-image: url(why-view5.webp);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -952,7 +952,7 @@ form ::placeholder{
     height:60vh;
     width: 40%;
     /* background-color:lightcoral; */
-    background-image: url(/images/ew-award.png);
+    background-image: url(ew-award.png);
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -1202,7 +1202,7 @@ form ::placeholder{
     height:75vh;
     width: 50%;
     /* background-color: red; */
-    background-image: url(images/edunext-entry2.jpg);
+    background-image: url(edunext-entry2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
